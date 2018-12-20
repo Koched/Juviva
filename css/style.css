@@ -1145,7 +1145,7 @@ header{
   display: block;
   width: 15px;
   height: 15px;
-  background-color: red;
+  background-color: white;
   position: absolute;
   top: 20px;
   right: 20px;
@@ -1270,7 +1270,6 @@ section{
   }
 
   [data-media="mute-unmute"] {
-  background-color: red;
 }
 
 .category {
